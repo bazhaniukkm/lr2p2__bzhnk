@@ -23,4 +23,4 @@ f(x) = \frac{1}{4x^2 + x + 2}
 
  Збірка
 ```bash
-gcc -std=c11 -O2 main.c -o lab2_part2 -lm
+gcc -std=c11 -O2 main.c -o lr2p2 -lm
